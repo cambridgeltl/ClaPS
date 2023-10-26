@@ -31,7 +31,7 @@ Lastly, it is worth mentioning that the all prompt search algorithms are sensiti
 
 We acknowledge that some scripts were modified based on RLPrompt.
 
-## Cination
+## Citation
 
 If you find our work to be useful, please cite:
 

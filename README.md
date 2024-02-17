@@ -25,7 +25,7 @@ sh run_claps.sh
 
 2. **Ranking and Pruning:** You can control the pruning strength by adjusting the percentile argument. 
 
-3. **Black-Box Prompt Search:** We provide three prompt search algorithms: genetics, greedy, and particle swarm optimization. To define the search algorithm, change it in the method argument.
+3. **Black-Box Prompt Optimization:** We provide three prompt search algorithms: genetics, greedy, and particle swarm optimization. To define the search algorithm, change it in the method argument.
 
 Lastly, it is worth mentioning that the all prompt search algorithms are sensitive to the intial/manual template defined for instructing the LLM. Feel free to test our ClaPS with your own templates, which can be defined in the ```load_default_template``` function in ```rewards/text_classification_reward.py```.
 
